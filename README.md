@@ -11,7 +11,7 @@ The second set of information is the analysis of the sales of a supermarket comp
 ### Download CSV files here: 
 <p>https://www.kaggle.com/datasnaek/youtube-new?select=CAvideos.csv </p>
 <p>https://www.kaggle.com/aungpyaeap/supermarket-sales </p>
-<img src="https://github.com/DimaOanaTeodora/Application-of-Benford-s-Law/blob/main/vizualizari.png" width="600" height="400"/>
+<img src="https://github.com/DimaOanaTeodora/Application-of-Benford-s-Law/blob/main/vizualizari.png" width="600" height="600"/>
 <img src="https://github.com/DimaOanaTeodora/Application-of-Benford-s-Law/blob/main/neoficiale.png" width="600" height="400"/>
 <img src="https://github.com/DimaOanaTeodora/Application-of-Benford-s-Law/blob/main/tabel.png" width="600" height="400"/>
 <img src="https://github.com/DimaOanaTeodora/Application-of-Benford-s-Law/blob/main/comentarii.png" width="600" height="400"/>
