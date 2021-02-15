@@ -9,5 +9,5 @@ The first set represents the data analysis of the Youtube application for Canada
 The second set of information is the analysis of the sales of a supermarket company in Myanmar that recorded for 3 months, data from each city in the country. Thus, we noticed according to the graphs in the picture below, the fact that Benford's Law is not applicable to numbers that are limited by a range (the rating takes values from 1 to 9, and people tend to give better grades, so the larger numbers will be the predominant ones), the quantity that does not increase exponentially (small reference scale) and the IDs that are unique (automatically the distribution of the first digit tends to be equal).
 
 ### Download CSV files here: 
-https://www.kaggle.com/datasnaek/youtube-new?select=CAvideos.csv 
-https://www.kaggle.com/aungpyaeap/supermarket-sales
+<p>https://www.kaggle.com/datasnaek/youtube-new?select=CAvideos.csv </p>
+<p>https://www.kaggle.com/aungpyaeap/supermarket-sales </p>
