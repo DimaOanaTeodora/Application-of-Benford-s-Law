@@ -8,5 +8,6 @@ To illustrate the applicability of Benford's Law, our application aims to analyz
 The first set represents the data analysis of the Youtube application for Canada in 2019. We chose this data set, because both the number of views and the number of appreciations or comments respect the conditions of Benford's Law: to be randomly generated numbers, prone to exponential growth, unrestricted by maximum or minimum, and the calculations should take place on large samples of data. Thus, through the interface, the user can choose for which category of data he wants to see the applicability of the law (assessments, views or comments). 
 The second set of information is the analysis of the sales of a supermarket company in Myanmar that recorded for 3 months, data from each city in the country. Thus, we noticed according to the graphs in the picture below, the fact that Benford's Law is not applicable to numbers that are limited by a range (the rating takes values from 1 to 9, and people tend to give better grades, so the larger numbers will be the predominant ones), the quantity that does not increase exponentially (small reference scale) and the IDs that are unique (automatically the distribution of the first digit tends to be equal).
 
-###Download CSV files here: https://www.kaggle.com/datasnaek/youtube-new?select=CAvideos.csv 
-                            https://www.kaggle.com/aungpyaeap/supermarket-sales
+### Download CSV files here: 
+https://www.kaggle.com/datasnaek/youtube-new?select=CAvideos.csv 
+https://www.kaggle.com/aungpyaeap/supermarket-sales
