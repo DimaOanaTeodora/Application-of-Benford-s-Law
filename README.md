@@ -14,4 +14,4 @@ The second set of information is the analysis of the sales of a supermarket comp
 <img src="https://github.com/DimaOanaTeodora/Application-of-Benford-s-Law/blob/main/vizualizari.png" width="600" height="300"/>
 <img src="https://github.com/DimaOanaTeodora/Application-of-Benford-s-Law/blob/main/neoficiale.png" width="600" height="300"/>
 <img src="https://github.com/DimaOanaTeodora/Application-of-Benford-s-Law/blob/main/tabel.png" width="600" height="300"/>
-<img src="https://github.com/DimaOanaTeodora/Application-of-Benford-s-Law/blob/main/comentarii.png" width="600" height="300"/>
+
